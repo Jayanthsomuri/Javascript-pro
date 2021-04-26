@@ -1,0 +1,21 @@
+#back{
+    background-image: url(back1-img.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    width:auto;
+    height:500px;
+}
+#road{
+    background:url(road.jpg);
+}
+#img{
+    width:150px;
+
+}
+#dbtn{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    
+}
